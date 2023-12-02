@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @acharsh
+- 👀 I’m interested in Music, Science, Space, Tech
+- 🌱 I’m currently learning Python
+- 📫 How to reach me caccacpenguin@gmail.com
